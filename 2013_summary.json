@@ -1,0 +1,238 @@
+{
+  "title": "Summary of the 2013 Unsheltered Homeless Count in Selected Areas of King Count",
+  "report_url": "http://homelessinfo.org/resources/one_night_count/2013_ONC_Street_Count_Summary.pdf",
+  "agency": "Seattle / King County Coalition on Homelessness",
+  "agency_url": "http://homelessinfo.org",
+  "contacts": [
+    {
+      "name": "Alison Eisinger",
+      "phone": "(206) 357-3147",
+      "email": "alison@homelessinfo.org"
+    },
+    {
+      "name": "Nicole Macri",
+      "phone": "(206) 515-1514"
+    }
+  ],
+  "summary by demographic": {
+    "men": {
+      "seattle": 597,
+      "kent": 7,
+      "north end": 68,
+      "east side": 96,
+      "white center": 4,
+      "federal way": 31,
+      "renton": 22,
+      "night owl buses": 66,
+      "auburn": 6,
+      "total": 897
+    },
+    "women": {
+      "seattle": 133,
+      "kent": 3,
+      "north end": 21,
+      "east side": 26,
+      "white center": 0,
+      "federal way": 4,
+      "renton": 2,
+      "night owl buses": 14,
+      "auburn": 2,
+      "total": 205
+    },
+    "gender unknown": {
+      "seattle": 1241,
+      "kent": 43,
+      "north end": 17,
+      "east side": 75,
+      "white center": 47,
+      "federal way": 83,
+      "renton": 59,
+      "night owl buses": 1,
+      "auburn": 49,
+      "total": 1615
+    },
+    "minor (under 18)": {
+      "seattle": 18,
+      "kent": 0,
+      "north end": 0,
+      "east side": 0,
+      "white center": 0,
+      "federal way": 0,
+      "renton": 0,
+      "night owl buses": 1,
+      "auburn": 0,
+      "total": 19
+    },
+    "total": {
+      "seattle": 1989,
+      "kent": 53,
+      "north end": 106,
+      "east side": 197,
+      "white center": 51,
+      "federal way": 118,
+      "renton": 83,
+      "night owl buses": 82,
+      "auburn": 57,
+      "total": 57
+    }
+  },
+  "summary by situation": {
+    "benches": {
+      "seattle": 11,
+      "kent": 0,
+      "north end": 0,
+      "east side": 1,
+      "white center": 0,
+      "federal way": 2,
+      "renton": 2,
+      "night owl buses": 0,
+      "auburn": 0,
+      "total": 16
+    },
+    "parking garages": {
+      "seattle": 22,
+      "kent": 2,
+      "north end": 0,
+      "east side": 1,
+      "white center": 0,
+      "federal way": 0,
+      "renton": 3,
+      "night owl buses": 0,
+      "auburn": 0,
+      "total": 28
+    },
+    "cars/trucks": {
+      "seattle": 631,
+      "kent": 8,
+      "north end": 14,
+      "east side": 52,
+      "white center": 31,
+      "federal way": 78,
+      "renton": 37,
+      "night owl buses": 0,
+      "auburn": 27,
+      "total": 878
+    },
+    "structures": {
+      "seattle": 292,
+      "kent": 4,
+      "north end": 3,
+      "east side": 8,
+      "white center": 16,
+      "federal way": 15,
+      "renton": 11,
+      "night owl buses": 0,
+      "auburn": 4,
+      "total": 353
+    },
+    "under roadways": {
+      "seattle": 194,
+      "kent": 8,
+      "north end": 2,
+      "east side": 6,
+      "white center": 0,
+      "federal way": 2,
+      "renton": 8,
+      "night owl buses": 0,
+      "auburn": 5,
+      "total": 225
+    },
+    "doorways": {
+      "seattle": 139,
+      "kent": 13,
+      "north end": 0,
+      "east side": 5,
+      "white center": 2,
+      "federal way": 1,
+      "renton": 2,
+      "night owl buses": 0,
+      "auburn": 1,
+      "total": 163
+    },
+    "city parks": {
+      "seattle": 5,
+      "kent": 7,
+      "north end": 1,
+      "east side": 0,
+      "white center": 0,
+      "federal way": 0,
+      "renton": 0,
+      "night owl buses": 0,
+      "auburn": 10,
+      "total": 23
+    },
+    "bushes/undergrowth": {
+      "seattle": 69,
+      "kent": 3,
+      "north end": 0,
+      "east side": 8,
+      "white center": 0,
+      "federal way": 0,
+      "renton": 2,
+      "night owl buses": 0,
+      "auburn": 6,
+      "total": 88
+    },
+    "bus stops": {
+      "seattle": 32,
+      "kent": 0,
+      "north end": 4,
+      "east side": 0,
+      "white center": 0,
+      "federal way": 1,
+      "renton": 3,
+      "night owl buses": 0,
+      "auburn": 0,
+      "total": 40
+    },
+    "alleys": {
+      "seattle": 46,
+      "kent": 1,
+      "north end": 0,
+      "east side": 0,
+      "white center": 0,
+      "federal way": 1,
+      "renton": 0,
+      "night owl buses": 0,
+      "auburn": 0,
+      "total": 48
+    },
+    "walking around": {
+      "seattle": 257,
+      "kent": 6,
+      "north end": 6,
+      "east side": 7,
+      "white center": 2,
+      "federal way": 18,
+      "renton": 8,
+      "night owl buses": 0,
+      "auburn": 1,
+      "total": 305
+    },
+    "other": {
+      "seattle": 291,
+      "kent": 1,
+      "north end": 76,
+      "east side": 109,
+      "white center": 0,
+      "federal way": 0,
+      "renton": 7,
+      "night owl buses": 82,
+      "auburn": 3,
+      "total": 569
+    },
+    "total": {
+      "seattle": 1989,
+      "kent": 53,
+      "north end": 106,
+      "east side": 197,
+      "white center": 51,
+      "federal way": 118,
+      "renton": 83,
+      "night owl buses": 82,
+      "auburn": 57,
+      "total": 57
+    }
+  }
+}
+
