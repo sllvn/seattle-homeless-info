@@ -1,0 +1,121 @@
+{
+  "title": "Summary of the 2011 Unsheltered Homeless Count in Selected Areas of King Count",
+  "report_url": "",
+  "agency": "Seattle / King County Coalition on Homelessness",
+  "agency_url": "http://homelessinfo.org",
+  "contacts": [
+    {
+      "name": "Alison Eisinger",
+      "phone": "(206) 357-3147",
+      "email": "alison@homelessinfo.org"
+    },
+    {
+      "name": "Nicole Macri",
+      "phone": "(206) 515-1514"
+    }
+  ],
+  "summary by demographic": {
+    "men": {
+      "seattle": 620,
+      "kent": 26,
+      "north end": 2,
+      "east side": 83,
+      "white center": 6,
+      "federal way": 13,
+      "renton": 13,
+      "night owl buses": 93,
+      "auburn": 4,
+      "total": 860
+    },
+    "women": {
+      "seattle": 144,
+      "kent": 6,
+      "north end": 0,
+      "east side": 22,
+      "white center": 0,
+      "federal way": 2,
+      "renton": 3,
+      "night owl buses": 13,
+      "auburn": 1,
+      "total": 191
+    },
+    "gender unknown": {
+      "seattle": 957,
+      "kent": 76,
+      "north end": 33,
+      "east side": 40,
+      "white center": 48,
+      "federal way": 109,
+      "renton": 54,
+      "night owl buses": 0,
+      "auburn": 40,
+      "total": 1357
+    },
+    "minor (under 18)": {
+      "seattle": 32,
+      "kent": 0,
+      "north end": 0,
+      "east side": 1,
+      "white center": 0,
+      "federal way": 0,
+      "renton": 1,
+      "night owl buses": 0,
+      "auburn": 0,
+      "total": 34
+    },
+    "total": {
+      "seattle": 1753,
+      "kent": 108,
+      "north end": 35,
+      "east side": 146,
+      "white center": 54,
+      "federal way": 124,
+      "renton": 71,
+      "night owl buses": 106,
+      "auburn": 45,
+      "total": 2442
+    }
+  },
+  "summary by situation": {
+    "benches": {
+      "total": 21
+    },
+    "parking garages": {
+      "total": 23
+    },
+    "cars/trucks": {
+      "total": 767
+    },
+    "structures": {
+      "total": 249
+    },
+    "under roadways": {
+      "total": 196
+    },
+    "doorways": {
+      "total": 131
+    },
+    "city parks": {
+      "total": 25
+    },
+    "bushes/undergrowth": {
+      "total": 89
+    },
+    "bus stops": {
+      "total": 42
+    },
+    "alleys": {
+      "total": 21
+    },
+    "walking around": {
+      "total": 261
+    },
+    "other": {
+      "total": 617
+    },
+    "total": {
+      "total": 2442
+    }
+  }
+}
+
